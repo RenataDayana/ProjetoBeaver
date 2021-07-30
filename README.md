@@ -1,3 +1,8 @@
+#Olá visitante, tudo bem?
+
+O **Beaver**  é uma rede social capaz de mudar a realidade da população e trabalhar a desigualdade social do país, tendo como principal objetivo facilitar o acesso de pessoas que se encontram em situação de vulnerabilidade social com projetos de moradia popular. A rede também possibilita a parceria entre empresas, arrecadações de donativos e divulgação de novos projetos.
+
+Este projeto está sendo elaborado na turma 26 do Bootcamp da Generation por um grupo de cinco integrantes listados abaixo:
 ## Ary de Sá
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam4ry/)](https://www.linkedin.com/in/iam4ry/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/arydsr)](https://github.com/arydsr)
