@@ -1,4 +1,4 @@
-#Olá visitante, tudo bem?
+# Olá visitante, tudo bem?
 
 O **Beaver**  é uma rede social capaz de mudar a realidade da população e trabalhar a desigualdade social do país, tendo como principal objetivo facilitar o acesso de pessoas que se encontram em situação de vulnerabilidade social com projetos de moradia popular. A rede também possibilita a parceria entre empresas, arrecadações de donativos e divulgação de novos projetos.
 
