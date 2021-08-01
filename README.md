@@ -27,7 +27,7 @@ Este projeto está sendo elaborado na turma 26 do Bootcamp da Generation por um 
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&labelColor=green&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977801229&text=Ol%C3%A1%20Lucas%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)](https://api.whatsapp.com/send?phone=5511977801229&text=Ol%C3%A1%20Lucas%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas_otoni@hotmail.com)](lucas_otoni@hotmail.com)
 
-## Renata de Oliveira
+## Renata Menezes
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-dayana-de-oliveira-menezes-19a57549/)](https://www.linkedin.com/in/renata-dayana-de-oliveira-menezes-19a57549/)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/RenataDayana)](https://github.com/RenataDayana)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&labelColor=green&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511932865308&text=Ol%C3%A1%20Renata%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)](https://api.whatsapp.com/send?phone=5511932865308&text=Ol%C3%A1%20Renata%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)
